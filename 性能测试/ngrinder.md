@@ -6,11 +6,11 @@ nGrinder测试基于python测试脚本(groovy也可)，用户按照一定规范�
 这款框架的一大特点就是非常的简单易用，安装也很容易，可以说是开箱即用。
 nGrinderr直接部署成web服务，支持多用户使用，可扩展性好，可自定义plugin
 + 网上资源:
-    下载地址：https://sourceforge.net/projects/ngrinder/files/ngrinder-3.2.3/
+    +下载地址：https://sourceforge.net/projects/ngrinder/files/ngrinder-3.2.3/
 
-    安装指南：http://my.oschina.net/u/939534/blog/102878
+    +安装指南：http://my.oschina.net/u/939534/blog/102878
 
-    问题解答：http://ngrinder.642.n7.nabble.com/ngrinder-user-cn-f114.html
+    +问题解答：http://ngrinder.642.n7.nabble.com/ngrinder-user-cn-f114.html
 
 ### 安装步骤
 
