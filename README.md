@@ -1,6 +1,7 @@
-## lichenje share
+## Lichenje share  
+share is a happiness thing!
 
-### 笔记概况
+### 概况
 #### 性能测试:
 + 关注性能测试的文章，性能测试工具、性能测试理论
 #### 自动化测试:
