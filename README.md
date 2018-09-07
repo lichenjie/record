@@ -1,5 +1,4 @@
 ## Lichenje share  
-#### share is a happiness thing!
 
 ### 概况
 #### 性能测试:
