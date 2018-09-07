@@ -9,9 +9,9 @@ nGrinderr直接部署成web服务，支持多用户使用，可扩展性好，�
 ### 安装步骤
 
 #### 1.下载程序
-+ NGrinder 由两个模块组成，其运行环境为 Oracle JDK 1.6
+ NGrinder 由两个模块组成，其运行环境为 Oracle JDK 1.6
 + nGrinder controller  web 应用程序，部署在Tomcat 6.x 或更高的版本
- nGrinder Agent     Java 应用程序
++ nGrinder Agent     Java 应用程序
 
 
 #### 2.安装Controller
