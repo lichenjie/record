@@ -5,7 +5,7 @@ nGrinder是基于Grinder开源项目，由NHN公司的开发团队进行了重�
 nGrinder测试基于python测试脚本(groovy也可)，用户按照一定规范编写测试脚本，controller会将脚本一集需要的资源分发到agent，用jython执行。并且在执行的过程中收集运行情况、相应时间、测试目标服务器的运行情况等。并且保存这些数据生成测试报告，以供查看。
 这款框架的一大特点就是非常的简单易用，安装也很容易，可以说是开箱即用。
 nGrinderr直接部署成web服务，支持多用户使用，可扩展性好，可自定义plugin
-+ 网上资源：
++ 网上资源:
 下载地址：https://sourceforge.net/projects/ngrinder/files/ngrinder-3.2.3/
 
 安装指南：http://my.oschina.net/u/939534/blog/102878
