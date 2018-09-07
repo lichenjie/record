@@ -1,4 +1,23 @@
-# record
-python书籍：https://taizilongxu.gitbooks.io/stackoverflow-about-python/content/3/README.html
+## lichenje学习笔记
 
-GIL:http://python.jobbole.com/87743/
+### 性能测试
+介绍：关注性能测试的文章
+
+
+
+
+
+
+### 文章列表
+
+**1. [ngrinder安装手册](./性能测试/ngrinder.md)**
+
+### 附录
+
+
+
+
+
+
+
+
