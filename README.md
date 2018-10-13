@@ -11,7 +11,8 @@
 + 关注java相关知识，java核心、高并发、设计模式、框架
 #### python:
 + 关注python相关知识，Python核心、flask、Python源码、人工智能
-
+#### 随笔
++ 做个有故事的人
 
 
 
